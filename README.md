@@ -1,2 +1,2 @@
 # IRGraphing
-Graphin of infrared waves received from Arduino 
+Graphing of infrared waves received from Arduino 
