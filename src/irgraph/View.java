@@ -16,7 +16,7 @@ import java.util.Enumeration;
 
 /**
  *
- * @author ATQU
+ * @author F
  */
 public class View extends JFrame {
 
