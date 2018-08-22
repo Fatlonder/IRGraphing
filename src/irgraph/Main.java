@@ -7,7 +7,7 @@ package irgraph;
 
 /**
  *
- * @author ATQU
+ * @author F
  */
 public class Main {
 
